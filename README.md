@@ -1,32 +1,42 @@
-## 💻 Tech Stack
+<h1 align="center">Hi, I'm Abdelrahman Abdelhamid 👋</h1>
 
-### 🧠 Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" height="80" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80" height="80" alt="C++"/>
+<p align="center">
+  Full-Stack Developer with a strong Frontend focus (Next.js / React) — building fast, modern, high-end UIs with smooth animations, clean architecture, and SEO in mind.
 </p>
 
-### 🎨 Front-End
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="80" height="80" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="80" height="80" alt="WordPress"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="80" height="80" alt="Angular"/>
+<p align="center">
+  <a href="https://abdelrahman-abdelhamid-dev.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/abdelrahman-abdelhamid8/">LinkedIn</a> •
+  <a href="mailto:abdelrahmanhamid99@gmail.com">Email</a>
 </p>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="80" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="80" height="80" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="80" height="80" alt="Bootstrap"/>
-</p>
+---
 
-### ⚙️ Back-End & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" height="80" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80" height="80" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" height="80" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80" alt="Java"/>
-</p>
+## 🚀 Tech Stack
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="100" height="100" /></div>
+
+---
+
+## 💼 What I Build & Deliver
+
+- ⚡ **High-end Frontend Applications**  
+  Clean, responsive UIs using **Next.js, React, TypeScript**, with attention to detail and scalability.
+
+- 🎨 **Smooth Animations & Motion**  
+  GSAP-powered micro-interactions, scroll-based animations, and polished transitions that elevate UX.
+
+- 🚀 **Performance & SEO-Focused Builds**  
+  Optimized rendering, Core Web Vitals, accessibility, and search visibility baked in from day one.
+
+- 🔌 **API-Driven & Real-World Products**  
+  Dashboards, forms, and data-heavy interfaces with clean API integration and state management.
+
+- 🧩 **Maintainable Architecture**  
+  Clear component structure, reusable patterns, and code that teams can confidently build on.
+
+
+---
+
+## 📫 Contact
+If you want to build something clean, fast, and premium: **abdelrahmanhamid99@gmail.com**
